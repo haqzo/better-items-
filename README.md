@@ -60,7 +60,7 @@ If using Dynamic Ocarinas and the original ocarina icons appear, adjust the mod 
 ## Credits
 
 - **PokeMMO** — Original item artwork, refined and improved without outside artwork.
-- **BlueQuilava** — [Dynamic Ocarinas](https://forums.pokemmo.com/index.php?/topic/200765-dynamic-ocarina-icons/), supported but not included.
+- **BlueQuilava** — [Dynamic Ocarinas](https://forums.pokemmo.com/index.php?/topic/200765-dynamic-ocarinas-improved-ocarina-icons/), supported but not included.
 
 ## Changelog
 
