@@ -28,7 +28,28 @@ The goal is to improve the original artwork without making the items look like s
 
 ## Screenshots
 
-Screenshots and comparisons will be added here.
+A look at the refined item icons across different categories:
+
+### Poké Balls
+![Better Items – Poké Balls](01-poke-balls.png)
+
+### Medicine
+![Better Items – Medicine](02-medicine.png)
+
+### Berries
+![Better Items – Berries](03-berries.png)
+
+### Key Items
+![Better Items – Key Items](04-key-items.png)
+
+### Held Items
+![Better Items – Held Items](05-held-items.png)
+
+### Gems, Plates & TMs
+![Better Items – Gems, Plates and TMs](06-gems-plates-tms.png)
+
+### Cosmetics
+![Better Items – Cosmetics](07-cosmetics.png)
 
 ## Installation
 
